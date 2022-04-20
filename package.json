@@ -1,6 +1,6 @@
 {
   "name": "weather",
-  "hompage": "https://iandigo.github.io/",
+  "hompage": "https://iandigo.github.io/weather",
   "version": "0.1.0",
   "private": false,
   "dependencies": {
